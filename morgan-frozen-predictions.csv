@@ -1,0 +1,4 @@
+decision_at,available_at,decision_id,market,contract_reference,signal,long_probability,short_probability,model_version,calibration_version,target_version,prediction_status,source_experiment_id,confidence,diagnostics_json
+2024-03-06T15:00:00Z,2024-03-06T14:59:00Z,SYNTH-OOS-MNQ-20240306T1500Z,MNQ,MNQ-202403,LONG,0.60,0.30,synthetic-model-v1,synthetic-calibration-v1,synthetic-target-v1,FROZEN_OOS,synthetic-experiment-v1,0.75,{}
+2024-03-07T15:00:00Z,2024-03-07T14:59:00Z,SYNTH-OOS-MNQ-20240307T1500Z,MNQ,MNQ-202403,WAIT,0.45,0.45,synthetic-model-v1,synthetic-calibration-v1,synthetic-target-v1,FROZEN_OOS,synthetic-experiment-v1,0.50,{}
+2024-03-08T15:00:00Z,2024-03-08T14:59:00Z,SYNTH-OOS-MNQ-20240308T1500Z,MNQ,MNQ-202403,SHORT,0.25,0.65,synthetic-model-v1,synthetic-calibration-v1,synthetic-target-v1,FROZEN_OOS,synthetic-experiment-v1,0.80,{}
